@@ -9,7 +9,7 @@ Library          DateTime
 ${URL}        https://vaccine-haven.herokuapp.com/
 ${REGISTER_URL}    https://vaccine-haven.herokuapp.com/registration
 ${BROWSER}         gc
-${CITIZEN_ID}      2376900001189
+${CITIZEN_ID}      9621054599805
 ${FIRST_NAME}      Bhatara
 ${LAST_NAME}       Chaemchan
 ${BIRTH_DATE}      12122000  
