@@ -25,6 +25,7 @@ Redirect To Home page
     Should BE Equal  ${CURRENT_URL}  ${URL}
 
 *** Test Cases ***
+
 Open service taker URL
     Open Application
     Title Should Be  Vaccine Haven
