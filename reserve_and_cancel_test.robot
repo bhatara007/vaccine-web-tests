@@ -40,11 +40,9 @@ Verify Reservation Information
     Page Should Contain Element    identifier=reserve_site_value 
     Page Should Contain            ${SITE}
 
-Verify Cancelation Information
-    Page Should Contain Element    identifier=reserve_vaccine_value    
-    Page Should Contain            ""
-    Page Should Contain Element    identifier=reserve_site_value 
-    Page Should Contain            ""
+Verify Cancelation Information  
+    Page Should Not Contain            ${VACCINE_NAME}
+    Page Should Not Contain            ${SITE}
 
 *** Test Cases ***
 Open service taker URL

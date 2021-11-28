@@ -16,5 +16,5 @@ ${BIRTH_DATE}      12122000
 ${OCCUPATION}      Student
 ${PHONE_NUMBER}    0819259003
 ${ADDRESS}         53/1 moo.1 Bangkrui sai-noi26 Bangsrithong Bangkraui Nonthaburi 11130
-${VACCINE_NAME}  Astra
+${VACCINE_NAME}  Pfizer
 ${SITE}  OGYHSite
