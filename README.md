@@ -3,8 +3,8 @@
 ## Test Cases
 | Files                        | Desciprtion                                                                                                                                                                                                         |
 |------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| reserve_and_cancel_test.robot               | Test reserve and cancel the vaccine appointment on vaccince haven service taker website |
-| registeration_test.robot | Test registeration on vaccince haven service taker website the citizen id can uses for once.                                                                                                                                                                        |
+| reserve_and_cancel_test.robot               | Contains reserve and cancel the vaccine appointment on vaccince haven service taker website test |
+| registeration_test.robot | Contains registeration on vaccince haven service taker website test and the citizen id can uses for once.                                                                                                                                                                        |
 
 1. Open service taker URL: test open the vaccince haven homepage
 3. Register on URL: test input the register information on register page
